@@ -29,7 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 home.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -171,9 +171,9 @@ home.html
 
 </body>
 </html>
-
+```
 menu.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -257,9 +257,9 @@ menu.html
 </div>
 </body>
 </html>
-
+```
 workers.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -323,9 +323,9 @@ header a:hover{background:orange;}
 
 </body>
 </html>
-
+```
 contact.html
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -380,7 +380,7 @@ button:hover{background:darkorange;}
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 <img width="1044" height="522" alt="Screenshot 2025-12-28 155438" src="https://github.com/user-attachments/assets/2b4c353e-e35d-4e62-8acb-1bc225d5c3a8" />
 <img width="1034" height="524" alt="Screenshot 2025-12-28 155508" src="https://github.com/user-attachments/assets/98bac141-6ce0-4a88-8204-898b5824bcce" />
